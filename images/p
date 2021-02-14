@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1 align="center">Admin Login</h1>
+    <form method="post" action="login.php" >
+
+    <table class="p" align="center" border: 1px solid black;>
+    <tr>
+            <td><input type="text" name="uname" placeholder="UserName" require></td>
+        </tr>
+    
+    
+       
+    <tr>
+            <td><input type="password" name="pass" placeholder="Password" require></td>
+        </tr>
+        <tr>
+            <td align="center"><input type="submit"name="Login" value="Login"></td>
+        </tr>
+    </table>
+    
+
+    </form>
+</body>
+</html>

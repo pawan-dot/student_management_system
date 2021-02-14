@@ -1,0 +1,36 @@
+.admint{
+    color: #d9ff00;
+    background-color: rgb(8, 240, 27);
+    margin-left: auto;
+    margin-right: auto;
+    height: 42px;
+    line-height: -1rem;
+    margin-top:auto;
+    padding: 2rem;
+    overflow-wrap: break-word;
+    font-size-adjust: 0.58;
+}
+
+.lo{
+    overflow-x:auto;
+    float:left; 
+    color:rgb(226, 25, 176);
+     margin:auto;
+}
+
+.loo{
+    overflow-x:auto;
+    float:right; 
+    color:rgb(226, 25, 176);
+     margin:auto;
+}
+
+.y{
+    overflow-x:auto;
+    color:rgb(175, 19, 206);
+    overflow-wrap: break-word;
+    margin: auto;
+}
+
+
+
